@@ -1,14 +1,5 @@
-# Clinical Diagnostics Data Quality Dashboard (Python + MySQL)
+# Clinical Diagnostics Data Quality Dashboard
 
-<<<<<<< HEAD
-This is a beginner-friendly project that sets up the structure for a clinical diagnostics data quality dashboard.
-
-It includes:
-- Basic SQL folder for database structure
-- Python starter script in the `src` folder
-- Placeholder reports folder
-- Clean and organized project layout
-=======
 This project simulates a clinical diagnostics lab environment and focuses on **data quality monitoring** using Python and MySQL.
 
 It mirrors real laboratory workflows such as sample processing, QC checks, calibration review, and LIS-style documentation.
@@ -39,4 +30,3 @@ It mirrors real laboratory workflows such as sample processing, QC checks, calib
 - Basic reporting and dashboard-style visualizations  
 - Healthcare diagnostics domain understanding
 
->>>>>>> 43e431496f325079e6f95fc035cfb1edcdcf9d54

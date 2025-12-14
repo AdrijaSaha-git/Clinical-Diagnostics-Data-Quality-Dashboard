@@ -4,7 +4,7 @@ This project simulates a clinical diagnostics lab environment and focuses on **d
 
 It mirrors real laboratory workflows such as sample processing, QC checks, calibration review, and LIS-style documentation.
 
-## Project Objectives
+## Project Objectives 💻
 
 - Store **patient samples, test results, QC logs, and calibration data** in a MySQL database  
 - Use **Python** to:
@@ -16,17 +16,10 @@ It mirrors real laboratory workflows such as sample processing, QC checks, calib
   - Daily QC summary
 - Export **automated daily PDF data quality reports**
 
-## Tech Stack
+## Tech Stack 🛠
 
 - **Language:** Python  
 - **Database:** MySQL  
 - **Libraries:** pandas, matplotlib, mysql-connector-python, reportlab / matplotlib PdfPages  
 
-## Skills Demonstrated
-
-- SQL schema design and joins for healthcare-style data  
-- Data cleaning and anomaly detection  
-- QC and calibration trend monitoring  
-- Basic reporting and dashboard-style visualizations  
-- Healthcare diagnostics domain understanding
 
